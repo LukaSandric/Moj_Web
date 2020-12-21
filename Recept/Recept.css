@@ -1,0 +1,17 @@
+h1{
+	font-size: 40px;
+	color: RED;
+	background-color: Green;
+	font-family: Verdana;
+	font-weight: 700;
+}
+table{
+	color: green;
+	background-color: RED;
+}
+ul{
+	color: Blue;
+}
+ol{
+	color: Yellow;
+}
